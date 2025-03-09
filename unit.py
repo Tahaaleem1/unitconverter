@@ -227,7 +227,7 @@ if st.button("Convert"):
 st.markdown(
     """
     <div class="footer">
-        <h3 style="color: #4CAF50;">🚀 Developed by Sarfraz Ahmad</h3>
+        <h3 style="color: #4CAF50;">🚀 Developed by Taha Aleem</h3>
         <p>Convert units like a pro with this intuitive tool!</p>
     </div>
     """,
